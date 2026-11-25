@@ -12,3 +12,8 @@ as long as they completely understand everything being done, but I couldn't care
 
 <hr />
 
+<ul>
+<li><p><a title="" href="https://github.com/NonZeroExitAli/EPICAMP" target="_blank">EPIC-AMP &mdash; ML/DL approaches for antimicrobial peptide identification and MIC prediction.</a></p></li>
+<li>item 2</li>
+</ul>
+
