@@ -2,4 +2,4 @@
 
 <hr />
 
-<h1>Ahmed Amro Ali</h1>
+<h1 align="center">Ahmed Amro Ali</h1>
