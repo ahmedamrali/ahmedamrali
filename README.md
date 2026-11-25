@@ -8,7 +8,7 @@
 track for bioinformatics to work with tools or statistics, both tracks are good, I just chose the first on a whim</p>
 
 <p>I completely stopped using generative AI since it completely sucked any joy and personality I added to my work, I don't have anything against people who use it
-as long as they completely understand everything being done, but I couldn't care less, just a prefernce</p>
+as long as they completely understand everything being done, I couldn't care less, just a prefernce</p>
 
 <hr />
 
