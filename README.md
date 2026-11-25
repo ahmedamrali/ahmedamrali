@@ -1,4 +1,4 @@
-<p style="bold: center;">A piece of centered text</p>
+<p align="center"><strong>A piece of centered text</strong></p>
 <!--
 **ahmedamrali/ahmedamrali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
