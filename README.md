@@ -1,4 +1,4 @@
-## **Greetings, No Generative AI was used to make this.**
+<p style="bold: center;">A piece of centered text</p>
 <!--
 **ahmedamrali/ahmedamrali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
