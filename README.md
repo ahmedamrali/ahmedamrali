@@ -1,5 +1,4 @@
-<p bold align="center">Greetings, No Generative AI was used to make this.</p>
-
+## **Greetings, No Generative AI was used to make this.**
 <!--
 **ahmedamrali/ahmedamrali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
